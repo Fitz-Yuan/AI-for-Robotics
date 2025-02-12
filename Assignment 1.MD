@@ -1,6 +1,6 @@
 ## Assignment 1
 
-### 1. ROS CLI commands  
+### 1. Setup ROS in your system. 
 
 a. ROS CLI commands
 ![ROS CLI commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/ROS%20CLI%20commands%20.png?raw=true)  
@@ -9,7 +9,7 @@ a. ROS CLI commands
 b. Commands
 ![Commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Commands.png?raw=true)  
 
-### 2. Gazebo and RViz2  
+### Bring up the Turtlebot3/4 robot in the required simulated environment.
 
 a. Gazebo
 ![Gazebo](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Gazebo.png?raw=true)  
