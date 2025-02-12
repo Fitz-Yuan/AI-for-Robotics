@@ -9,7 +9,9 @@ a. ROS CLI commands
 b. Commands
 ![Commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Commands.png?raw=true)  
 
-### Bring up the Turtlebot3/4 robot in the required simulated environment.
+
+
+### 2. Bring up the Turtlebot3/4 robot in the required simulated environment.
 
 a. Gazebo
 ![Gazebo](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Gazebo.png?raw=true)  
