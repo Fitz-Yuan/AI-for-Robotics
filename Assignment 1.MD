@@ -2,7 +2,7 @@
 
 ### 1. ROS CLI commands  
 ![ROS CLI commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/ROS%20CLI%20commands%20.png?raw=true)  
-![Commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/Commands.png?raw=true)  
+![Commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Commands.png?raw=true)  
 
 ### 2. Gazebo and RViz2  
 ![Gazebo](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/Gazebo.png?raw=true)  
