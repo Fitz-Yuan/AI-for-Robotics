@@ -5,7 +5,7 @@
 ![Commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Commands.png?raw=true)  
 
 ### 2. Gazebo and RViz2  
-![Gazebo](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/Gazebo.png?raw=true)  
-![Rviz](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/Rviz.png?raw=true)  
-![Groot2](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/Groot2.png?raw=true)  
-![PyTrees](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/PyTrees.png?raw=true)  
+![Gazebo](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Gazebo.png?raw=true)  
+![Rviz](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Rviz.png?raw=true)  
+![Groot2](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Groot2.png?raw=true)  
+![PyTrees](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/PyTrees.png?raw=true)  
