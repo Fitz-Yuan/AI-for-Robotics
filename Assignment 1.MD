@@ -2,8 +2,9 @@
 
 ### 1. ROS CLI commands  
 a. ROS CLI commands
+```bash
 ![ROS CLI commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/ROS%20CLI%20commands%20.png?raw=true)  
-
+```
 b. Commands
 ![Commands](https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/AI%20for%20robotics/Commands.png?raw=true)  
 
