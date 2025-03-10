@@ -5,7 +5,7 @@
 My laptop webcam
 
 <p align="center">
-  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/1.png?raw=true" alt="1" width="700">
+  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/1.png?raw=true" alt="1" width="500">
 </p>
 
 ### 2. Create assets and embed them in the maze
@@ -13,19 +13,19 @@ My laptop webcam
 a. Bench and apple
 
 <p align="center">
-  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/2.png?raw=true" alt="2" width="700">
+  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/2.png?raw=true" alt="2" width="500">
 </p>
 
 b. Bench and teddy bear
 
 <p align="center">
-  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/3.png?raw=true" alt="3" width="700">
+  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/3.png?raw=true" alt="3" width="500">
 </p>
 
 c. Bench and laptop
 
 <p align="center">
-  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/4.png?raw=true" alt="4" width="700">
+  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/4.png?raw=true" alt="4" width="500">
 </p>
 
 ### 3. Object detection for the simulated camera sensor
