@@ -33,17 +33,17 @@ c. Bench and laptop
 a. When I open the camera, the view from robot.
 
 <p align="center">
-  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/5.png?raw=true" alt="5" width="700">
+  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/5.png?raw=true" alt="5" width="500">
 </p>
 
 b. When the robot faces the laptop and cup on the bench
 
 <p align="center">
-  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/6.png?raw=true" alt="6" width="700">
+  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/6.png?raw=true" alt="6" width="500">
 </p>
 
 c. When the robot faces the apple on the bench
 
 <p align="center">
-  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/7.png?raw=true" alt="7" width="700">
+  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/ai%20for%20robotics%20assignment2/7.png?raw=true" alt="7" width="500">
 </p>
