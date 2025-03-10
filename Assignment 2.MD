@@ -30,6 +30,8 @@ c. Bench and laptop
 
 ### 3. Object detection for the simulated camera sensor
 
+In this step, my navigation system has some problem. Neither my mouse nor keyboard can change the position of the robot. The only way to change the position is to change the coordinates of the robot, so basically what I did is change the coordination of the robot and let it face to objects. 
+
 a. When I open the camera, the view from robot.
 
 <p align="center">
