@@ -1,0 +1,42 @@
+# 透视相机模型配置文件（改进版）
+Camera:
+  name: "Webcam"
+  setup: "monocular"
+  model: "perspective"
+  fx: 9.99875079e+02
+  fy: 1.05761085e+03
+  cx: 2.84181111e+02
+  cy: 2.59560322e+02
+  k1: -1.25427190e-01
+  k2: 5.35958700e-02
+  p1: -1.85944000e-03
+  p2: 5.57430000e-04
+  k3: 1.29613900e-02
+  fps: 30.0
+  cols: 640
+  rows: 480
+  color_order: "RGB"
+Feature:
+  name: "default ORB feature extraction setting"
+  scale_factor: 1.2
+  num_levels: 8
+  ini_fast_threshold: 15
+  min_fast_threshold: 5
+Tracking:
+  keyframing_threshold: 10.0
+  min_num_frms_to_fix_scale: 5
+  use_robust_matcher_for_tracking_reinitialization: true
+  enable_automatic_reinitialization: true
+  automatic_reinitialization_max_interval: 4.0
+Initializer:
+  num_min_triangulated_pts: 30
+  parallax_deg_threshold: 0.8
+Mapping:
+  baseline_dist_thr_ratio: 0.02
+  redundant_obs_ratio_thr: 0.9
+  num_covisibilities_for_landmark_generation: 20
+  num_covisibilities_for_landmark_fusion: 20
+System:
+  map_format: "msgpack"
+  num_grid_cols: 32
+  num_grid_rows: 24

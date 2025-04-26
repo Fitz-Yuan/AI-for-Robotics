@@ -1,0 +1,67 @@
+# 优化版 Stella VSLAM 配置文件
+Camera:
+  name: "Webcam"
+  setup: "monocular"
+  model: "perspective"
+  fx: 9.99875079e+02
+  fy: 1.05761085e+03
+  cx: 2.84181111e+02
+  cy: 2.59560322e+02
+  k1: -1.25427190e-01
+  k2: 5.35958700e-02
+  p1: -1.85944000e-03
+  p2: 5.57430000e-04
+  k3: 1.29613900e-02
+  fps: 30.0
+  cols: 640
+  rows: 480
+  color_order: "RGB"
+
+Feature:
+  name: "optimized ORB feature extraction"
+  scale_factor: 1.2
+  num_levels: 10
+  ini_fast_threshold: 12
+  min_fast_threshold: 4
+  max_num_keypoints: 2500
+
+Initializer:
+  num_min_triangulated_pts: 25
+  parallax_deg_threshold: 0.8
+  min_num_valid_pts: 20
+
+Tracking:
+  keyframing_threshold: 8.0
+  min_num_frms_to_fix_scale: 5
+  use_robust_matcher_for_tracking_reinitialization: true
+  enable_automatic_reinitialization: true
+  automatic_reinitialization_max_interval: 5.0
+  reloc_distance_threshold: 0.6
+  reloc_angle_threshold: 35.0
+  require_local_map_to_localize: false
+  min_num_bow_matches: 15
+  min_num_valid_pts: 40
+
+Mapping:
+  baseline_dist_thr_ratio: 0.02
+  redundant_obs_ratio_thr: 0.85
+  num_covisibilities_for_landmark_generation: 18
+  num_covisibilities_for_landmark_fusion: 18
+  culling_threshold_redundant_obs_ratio: 0.8
+
+LoopDetector:
+  enabled: true
+  min_distance_on_graph: 40
+  min_shared_words: 20
+  reliability_threshold: 0.3
+  loop_detector_max_interval: 4.0
+
+GlobalOptimizer:
+  loop_BA_interval_scale: 1.2
+  max_num_iterations: 20
+  max_num_keyframes: 100
+  
+System:
+  map_format: "msgpack"
+  num_grid_cols: 32
+  num_grid_rows: 24
