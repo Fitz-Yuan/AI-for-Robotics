@@ -93,6 +93,10 @@ Implementation files are located in `Fianl_projects/rosa_agent_controller` folde
   <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/Fianl_projects/screenshots/Screenshot%202025-05-04%20at%205.29.33%20PM.png?raw=true" alt="2" width="500">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/Fianl_projects/screenshots/Screenshot%202025-05-04%20at%205.52.38%20PM.png?raw=true" alt="2" width="500">
+</p>
+
 ## Conclusion
 By replacing Langchain with pydantic_ai and implementing semantic navigation, I created a more efficient and capable robot control system. The agent can now understand complex navigation commands and successfully navigate to semantic targets in the environment.
 
