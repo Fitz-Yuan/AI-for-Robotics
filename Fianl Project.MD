@@ -5,6 +5,8 @@ In this project we use AI agents based on the ReAct principles for robotics. Our
 
 ## 1. ROSA Milestone Replication
 
+**Youtube Video:** [ROSA Replication Demo](https://www.youtube.com/watch?v=FVrqXn0KEf4)
+
 ### Environment Setup
 - Used the provided maze environment with Gazebo simulator and RViz
 - Implemented robot control and visualization
@@ -37,9 +39,10 @@ Successfully recreated the conversational interactions from the ROSA paper:
   <img src="https://github.com/Fitz-Yuan/AI-for-Robotics/blob/main/Fianl_projects/screenshots/4.png?raw=true" alt="2" width="500">
 </p>
 
-**Demo Video:** [ROSA Replication Demo](https://www.youtube.com/watch?v=FVrqXn0KEf4)
 
 ## 2. ROSA Enhancement Milestone
+
+**Youtube Video:** [ROSA Enhancement Demo](https://www.youtube.com/watch?v=GfolwEMVQ-s)
 
 ### Langchain to pydantic_ai Transition
 Replaced the original Langchain framework with pydantic_ai for improved agent functionality definition:
@@ -84,8 +87,6 @@ Added advanced navigation capabilities:
 - **LLM Reasoning:** Uses LLM to interpret natural language navigation commands
 
 Implementation files are located in `Fianl_projects/rosa_agent_controller` folder.
-
-**Enhancement Demo:** [ROSA Enhancement Demo](https://www.youtube.com/watch?v=GfolwEMVQ-s)
 
 ### Example Results
 <p align="center">
